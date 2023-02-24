@@ -22,7 +22,7 @@ function Header(args) {
   return (
     <div>
       <Navbar >
-        <NavbarBrand href="/">Genshin</NavbarBrand>
+        <NavbarBrand href="/">Genshin Tools</NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="me-auto" navbar>
